@@ -7,8 +7,8 @@ subtitle: Keep Your Personal Information Safe from Lurkers and Hackers with
   These Easy-to-Follow Tips
 description: This blog post provides a step-by-step guide to help you secure
   your Facebook profile and protect your online privacy from unwanted access.
-image: https://imgs.search.brave.com/C3JdNHux5XdwVBAe1ZcibjxKAN3RujCsQfa1knC3nPU/rs:fit:319:213:1/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzg3LzQw/NTYzNDU2MzE0X2Y1/NTRhYThjOWRfbi5q/cGc
-optimized_image: https://imgs.search.brave.com/C3JdNHux5XdwVBAe1ZcibjxKAN3RujCsQfa1knC3nPU/rs:fit:319:213:1/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzg3LzQw/NTYzNDU2MzE0X2Y1/NTRhYThjOWRfbi5q/cGc
+image: https://imgs.search.brave.com/J-gREJfUP_G0FnfwM024nhbuA0ZEWs3gk8OwjNuV20I/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/cHJpbWVpbnNwaXJh/dGlvbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/ZmFjZWJvb2stcHJp/dmFjeS0xLmpwZw
+optimized_image: https://imgs.search.brave.com/J-gREJfUP_G0FnfwM024nhbuA0ZEWs3gk8OwjNuV20I/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/cHJpbWVpbnNwaXJh/dGlvbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/ZmFjZWJvb2stcHJp/dmFjeS0xLmpwZw
 category: css
 tags:
   - privacy
