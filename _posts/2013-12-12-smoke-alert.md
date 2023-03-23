@@ -8,7 +8,7 @@ description: Learn how to protect your professional reputation and secure your
   LinkedIn account with this guide to locking down your privacy settings.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
 optimized_image: null
-category: "{{slug}}"
+category: blog
 tags:
   - Privacy
   - cybersecurity
