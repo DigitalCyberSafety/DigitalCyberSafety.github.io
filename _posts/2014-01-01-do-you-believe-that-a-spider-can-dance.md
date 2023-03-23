@@ -1,16 +1,22 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2023-03-22 22:21:59
 layout: post
-title: Do you believe that a spider can dance?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+title: "Protect Your Privacy: A Step-by-Step Guide to Locking Down Your
+  Instagram Account"
+subtitle: "Take Control of Your Privacy: A Step-by-Step Guide to Securing Your
+  Instagram Account"
+description: Learn how to protect your personal information and secure your
+  Instagram account with this step-by-step guide to locking down your privacy
+  settings.
+image: /assets/img/uploads/delete-instagram.webp
+optimized_image: /assets/img/uploads/delete-instagram.webp
+category: "{{slug}}"
 tags:
-  - fate
-  - travel
+  - privacy
+  - instagram
+  - security
 author: mranderson
+paginate: true
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
