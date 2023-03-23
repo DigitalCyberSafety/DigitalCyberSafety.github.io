@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Diet
+title: Data breaches
 slug: diet
-description: A category for diet related posts.
+description: Insights into major data breaches, their potential impact on
+  individuals and businesses, and steps you can take to protect yourself.
 ---
