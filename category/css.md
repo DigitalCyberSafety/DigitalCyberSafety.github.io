@@ -1,6 +1,7 @@
 ---
 layout: category
-title: CSS
+title: Privacy
 slug: css
-description: A category for CSS related posts.
+description: Guides to help you maintain your privacy on various online
+  platforms and services, such as social media, email, and cloud storage.
 ---
