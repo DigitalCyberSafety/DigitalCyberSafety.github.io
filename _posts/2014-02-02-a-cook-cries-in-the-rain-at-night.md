@@ -8,8 +8,8 @@ description: Learn how to secure your Facebook account and protect your personal
   privacy settings, be careful what you share, and watch out for scams and
   suspicious activity. Stay safe on the platform by following these best
   practices.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
+image: /assets/img/uploads/facebook-logo-1220x725-920x547.webp
+optimized_image: /assets/img/uploads/facebook-logo-1220x725-920x547.webp
 category: blog
 tags:
   - facebook
