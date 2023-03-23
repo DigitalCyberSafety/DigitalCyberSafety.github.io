@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Music
+title: Online scams
 slug: music
-description: A category for music related posts.
+description: Common online scams, such as phishing and social engineering
+  attacks, and how to avoid falling victim to them.
 ---
