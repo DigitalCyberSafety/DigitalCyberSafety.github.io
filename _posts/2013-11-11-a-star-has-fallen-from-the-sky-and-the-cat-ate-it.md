@@ -10,7 +10,7 @@ description: 'Get Your Privacy Back on Track: 10 Essential Tips for Online
   use.'
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
-category: "{{slug}}"
+category: blog
 tags:
   - privacy
   - cybersecurity
