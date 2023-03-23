@@ -6,9 +6,37 @@ title: About
 permalink: /about/
 description: Some description.
 tags:
-  - cybersecurity
+  - Cybersecurity
+  - Digital privacy
+  - Data security
+  - Online safety
+  - Cyber threats
+  - Malware
+  - Phishing
+  - Identity theft
+  - Online fraud
+  - Cybercrime
+  - Encryption
+  - Internet security
+  - Cyber defense
+  - Information security
+  - Cyber attacks
+  - Network security
+  - Password protection
+  - Cyber bullying
+  - Digital protection
+  - Cyber awareness
+  - Safe online browsing
+  - Online scams
+  - Cyber hygiene
+  - Cyber resilience
+  - Cyber law
+  - Internet privacy
+  - Online privacy policy
+  - Data breaches
+  - Cyber insurance
+  - Secure online communication
   - privacy
-  - ""
 ---
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
