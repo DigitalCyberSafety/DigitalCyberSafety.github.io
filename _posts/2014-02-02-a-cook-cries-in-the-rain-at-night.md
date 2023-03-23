@@ -10,7 +10,7 @@ description: Learn how to secure your Facebook account and protect your personal
   practices.
 image: https://imgs.search.brave.com/yOJrNQgQuTaybMb0fHWbm_rfwO0cRGWecjZKey_EbvQ/rs:fit:1024:683:1/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vOTAyLzQx/MjgxMzg4MzExX2Ew/YWVjYjU4ZjJfYi5q/cGc
 optimized_image: https://imgs.search.brave.com/yOJrNQgQuTaybMb0fHWbm_rfwO0cRGWecjZKey_EbvQ/rs:fit:1024:683:1/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vOTAyLzQx/MjgxMzg4MzExX2Ew/YWVjYjU4ZjJfYi5q/cGc
-category: blog
+category: "{{slug}}"
 tags:
   - facebook
   - security
