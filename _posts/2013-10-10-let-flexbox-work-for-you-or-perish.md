@@ -1,16 +1,22 @@
 ---
 date: 2017-08-14 22:55:45
 layout: post
-title: Let flexbox work for you or perish
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: "Take Control of Your Phone: Tips for Blocking Unwanted Calls and Texts"
+subtitle: "Taking Back Control of Your Phone: How to Eliminate Annoying and
+  Unsafe Calls for Good"
+description: This blog post provides practical tips and tools for stopping
+  unwanted calls from telemarketers, spammers, and robocallers. Readers will
+  learn about call-blocking apps, service provider options, and best practices
+  for avoiding scams and spam calls.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: css
+category: tips
 tags:
-  - css
-  - frontend
+  - privacy
+  - spam
+  - ""
 author: mranderson
+paginate: true
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
