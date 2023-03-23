@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Work
+title: Mobile security
 slug: work
-description: A category for work related posts.
+description: Best practices for securing your mobile devices and protecting your
+  personal and professional data while on the go.
 ---
