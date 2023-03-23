@@ -10,7 +10,7 @@ description: Learn how to protect your personal information and secure your
   settings.
 image: /assets/img/uploads/delete-instagram.webp
 optimized_image: /assets/img/uploads/delete-instagram.webp
-category: "{{slug}}"
+category: blog
 tags:
   - privacy
   - instagram
