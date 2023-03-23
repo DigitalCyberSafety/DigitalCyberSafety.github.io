@@ -2,12 +2,12 @@
 date: 2023-03-22 22:34:50
 layout: post
 title: "Get Your Privacy Back on Track: 10 Essential Tips for Online Security"
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+subtitle: How to Protect Your Personal Information in a Digital World
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
-category: music
+category: "{{slug}}"
 tags:
   - privacy
   - cybersecurity
