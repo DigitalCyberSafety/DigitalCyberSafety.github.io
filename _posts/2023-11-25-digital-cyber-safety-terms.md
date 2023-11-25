@@ -8,23 +8,22 @@ category: tips
 author: mranderson
 paginate: false
 ---
-Cybersecurity Glossary: Our comprehensive guide includes key cybersecurity terms and definitions, offering customers an easy reference to understand the industry's vital language. This resource is especially crucial in today's environment, where cyberattacks pose significant threats to personal and business security. It aids in safeguarding against cyber threats and blocking harmful content, underlining our commitment as service providers to enhance your digital safety.
+### **Cybersecurity Glossary:**
+Our comprehensive guide includes key cybersecurity terms and definitions, offering customers an easy reference to understand the industry's vital language. This resource is especially crucial in today's environment, where cyberattacks pose significant threats to personal and business security. It aids in safeguarding against cyber threats and blocking harmful content, underlining our commitment as service providers to enhance your digital safety.
 
 ### **Browse Alphabetically:**
 
-[A](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#a) [B](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#b) [C](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#c) [D](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#d) [E](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#e) [F](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#f) [G](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#g) [H](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#h) [I](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#i) [J](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#j) [K](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#k) [L](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#l) [M](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#m) [N](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#n) [O](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#o) [P](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#p) [Q](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#q) [R](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#r) [S](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#s) [T](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#t) [U](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#u) [V](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#v) [W](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#w) [X](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#x) [Y](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#y) [Z](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#z)
+[A](https://digitalcybersafety.com/digital-cyber-safety-terms/#a) [B](https://digitalcybersafety.com/digital-cyber-safety-terms/#b) [C](https://digitalcybersafety.com/digital-cyber-safety-terms/#c) [D](https://digitalcybersafety.com/digital-cyber-safety-terms/#d) [E](https://digitalcybersafety.com/digital-cyber-safety-terms/#e) [F](https://digitalcybersafety.com/digital-cyber-safety-terms/#f) [G](https://digitalcybersafety.com/digital-cyber-safety-terms/#g) [H](https://digitalcybersafety.com/digital-cyber-safety-terms/#h) [I](https://digitalcybersafety.com/digital-cyber-safety-terms/#i) [J](https://digitalcybersafety.com/digital-cyber-safety-terms/#j) [K](https://digitalcybersafety.com/digital-cyber-safety-terms/#k) [L](https://digitalcybersafety.com/digital-cyber-safety-terms/#l) [M](https://digitalcybersafety.com/digital-cyber-safety-terms/#m) [N](https://digitalcybersafety.com/digital-cyber-safety-terms/#n) [O](https://digitalcybersafety.com/digital-cyber-safety-terms/#o) [P](https://digitalcybersafety.com/digital-cyber-safety-terms/#p) [Q](https://digitalcybersafety.com/digital-cyber-safety-terms/#q) [R](https://digitalcybersafety.com/digital-cyber-safety-terms/#r) [S](https://digitalcybersafety.com/digital-cyber-safety-terms/#s) [T](https://digitalcybersafety.com/digital-cyber-safety-terms/#t) [U](https://digitalcybersafety.com/digital-cyber-safety-terms/#u) [V](https://digitalcybersafety.com/digital-cyber-safety-terms/#v) [W](https://digitalcybersafety.com/digital-cyber-safety-terms/#w) [X](https://digitalcybersafety.com/digital-cyber-safety-terms/#x) [Y](https://digitalcybersafety.com/digital-cyber-safety-terms/#y) [Z](https://digitalcybersafety.com/digital-cyber-safety-terms/#z)
 
 **Advanced Persistent Threat (APT):** A type of cyber attack where hackers gain unauthorized access to a network and remain undetected for a long period. APTs are typically aimed at stealing data or monitoring activities, and are known for their sophistication, persistence, and high-value targets.
 
 **Advanced Threat Protection (ATP):** A security solution designed to defend against sophisticated and evolving cyber threats. ATP uses a combination of methods like malware protection, detection of suspicious behavior, and response mechanisms to protect against complex attacks, often in real-time.
 
-### Adware
-
-Adware bombards users with endless ads and pop-up windows and causes a nuisance to the user experience. Adware can also pose a real danger to devices and the unwanted ads can include malware or redirect user searches to malicious websites that collect personal data about users. Adware programs are often built into freeware or shareware programs, where the adware operator collects an indirect fee for using the program. Adware programs usually do not show themselves in the system in any way. Adware programs seldom include a de-installation procedure, and attempts to remove them manually may cause the original carrier program to malfunction. [Read more](https://www.allot.com/cyberhub/wp-content/uploads/2020/12/Threat-Bulletin-Report-Atrimunte-.pdf)
+**Adware:** A type of software that automatically displays or downloads advertising material, often in the form of pop-ups or banners, when a user is online. While some adware is benign, providing revenue for free services, other forms can be intrusive or conceal spyware.
 
 ### Anti-Botnet
 
-Anti-Botnet tools automatically generate botnet checks when a user browses a website. If a risk is detected, it sends back a warning message to the device. The most common anti-botnet solution is CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart). Read more on [Allot’s solutions for Home Security](https://www.allot.com/network-security/connected-home-security-services/).
+Anti-Botnet tools automatically generate botnet checks when a user browses a website. If a risk is detected, it sends back a warning message to the device. The most common anti-botnet solution is CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart).
 
 ### Anti-Malware
 
@@ -127,6 +126,8 @@ The Dark Web is encrypted parts of the internet that are not indexed by search e
 ### Data Breach
 
 A Data Breach is the event of a hacker successfully exploits a network or device vulnerability and gains access to its files and data.
+
+**Data Brokers:** Companies that collect, analyze, and sell personal information about individuals. This information is often gathered from a variety of public and private sources, and is used for purposes such as targeted advertising, credit scoring, or market research.
 
 ### Data Integrity
 
