@@ -3,7 +3,8 @@ date: 2023-01-01 21:09:23
 layout: post
 title: Digital Cyber Safety Terms
 description: Glossary
-image: /assets/img/uploads/img_0019.webp
+image: /assets/img/uploads/img_0021.webp
+optimized_image: /assets/img/uploads/img_0021.webp
 category: tips
 author: mranderson
 paginate: false
