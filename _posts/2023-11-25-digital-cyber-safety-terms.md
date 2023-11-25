@@ -9,6 +9,7 @@ author: mranderson
 paginate: false
 ---
 ### **Cybersecurity Glossary:**
+
 Our comprehensive guide includes key cybersecurity terms and definitions, offering customers an easy reference to understand the industry's vital language. This resource is especially crucial in today's environment, where cyberattacks pose significant threats to personal and business security. It aids in safeguarding against cyber threats and blocking harmful content, underlining our commitment as service providers to enhance your digital safety.
 
 ### **Browse Alphabetically:**
@@ -21,71 +22,39 @@ Our comprehensive guide includes key cybersecurity terms and definitions, offeri
 
 **Adware:** A type of software that automatically displays or downloads advertising material, often in the form of pop-ups or banners, when a user is online. While some adware is benign, providing revenue for free services, other forms can be intrusive or conceal spyware.
 
-### Anti-Botnet
+**Anti-Botnet:** A security measure or software designed to detect, prevent, and respond to botnet attacks. Botnets are networks of infected computers controlled by hackers to perform malicious activities. Anti-botnet tools help in identifying and neutralizing these compromised computers, thereby blocking malicious activities like DDoS attacks, spamming, and data theft.
 
-Anti-Botnet tools automatically generate botnet checks when a user browses a website. If a risk is detected, it sends back a warning message to the device. The most common anti-botnet solution is CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart).
+**Anti-Malware:** A type of software specifically designed to detect, prevent, and remove malicious software, or malware, from computers and networks. Anti-malware tools can protect against a range of threats including viruses, worms, spyware, and ransomware, often using real-time scanning and heuristic analysis to identify and neutralize threats.
 
-### Anti-Malware
+**Anti-Phishing:** A security measure or software aimed at detecting and preventing phishing attacks, where fraudsters attempt to obtain sensitive information by disguising as a trustworthy entity in digital communication. Anti-phishing tools identify and block fraudulent websites, emails, or messages, and often include features like alerting users about potential phishing content.
 
-Anti-Malware is a program designed to protect computers and networks against any threats or attacks from viruses such as adware, spyware, and any such other malicious programs
+**Anti-Virus:** Software designed to detect, prevent, and remove viruses and other malicious software from computers and networks. It works by scanning files and systems for malware, quarantining or deleting any threats, and can often prevent infection by checking files in real-time as they are opened or downloaded.
 
-### Anti-Phishing
+**Attack Vector:** A method or pathway used by cybercriminals to gain unauthorized access to a system or network in order to exploit vulnerabilities for malicious purposes. Common attack vectors include email attachments, websites, and network connections. Identifying and securing these vectors is crucial for cybersecurity.
 
-Anti-Phishing protects users from fraudulent websites, often perfect replicas of legitimate websites, undetectable to the human eye. Protection is enforced by detecting fraudulent emails, and by blocking phishing websites. [Read more](https://www.allot.com/cyberhub/wp-content/uploads/2021/02/Allot-Secure-Threat-Report-Browser-Trackers.pdf)
+**Authentication:** A security process to verify the identity of a user or device attempting to access a system or network. Authentication often involves credentials like passwords, biometric data, or security tokens, ensuring that only authorized individuals or devices can access sensitive information or systems.
 
-### Anti-Virus
+**Backdoor:** A hidden method of bypassing normal authentication in a product, computer system, or database. Backdoors can be intentionally created for legitimate purposes, such as providing technical support, but can also be exploited by attackers to gain unauthorized access to systems and data.
 
-Anti-Virus solutions integrate the latest generation of virus detection technology to protect users from viruses, spyware, trojans, and worms that can infect equipment through email or internet browsing.
+**Banker Trojan:** A type of malicious software designed to steal financial information, such as online banking login credentials and credit card information. This malware often masquerades as a legitimate piece of software to trick users into downloading it, then secretly monitors and captures sensitive financial data.
 
-### Attack Vector
+**Blacklist, Blocklist, Denylist:** These terms refer to a security measure where a list of entities, such as IP addresses, email addresses, or applications, are denied access or blocked from a system. This approach is used to prevent known malicious or unwanted entities from gaining access to a network, system, or service.
 
-An Attack Vector is the collection of all vulnerable points by which an attacker can gain entry into the target system. Attack vectors include vulnerable points in technology as well as human behavior, skillfully exploited by attackers to gain access to networks. The growth of IoT devices and (Work from Home) have greatly increased the attack vector, making networks increasingly difficult to defend.
+**Bot:** A software application programmed to perform automated tasks over the internet. Bots can range from benign (like search engine crawlers) to malicious (such as those used in botnets for cyber attacks). They operate much faster than a human could, handling repetitive tasks efficiently.
 
-### Authentication
+**Botnet:** A network of internet-connected devices, each of which is running one or more bots. Botnets are often used for malicious purposes, such as launching Distributed Denial of Service (DDoS) attacks, sending spam, or conducting fraudulent activities. The devices are usually infected with malware and controlled remotely without the owners' knowledge.
 
-Authentication is the process of verifying the identity of a user or piece of information and the veracity of the information provided. In computing, it is the process of identifying a person or system with a username, password, etc. Authentication helps individuals and systems gain authorization based on their identity and prevent unauthorized access.
+**Brute Force Attack:** A trial-and-error method used by attackers to decode encrypted data such as passwords or PINs by systematically trying every possible combination of characters until the correct one is found. This type of attack can be time-consuming and is less sophisticated but can be effective against weak security systems.
 
-### Backdoor
+**Business Continuity Plan (BCP):** A strategy that organizations develop to continue operations during and after a significant disruption, like a natural disaster, cyberattack, or other emergencies. The plan typically includes measures for maintaining essential functions and services, minimizing downtime, and ensuring a swift recovery.
 
-Attackers use a Backdoor to gain access to a computer or a network. A programmer may bypass security steps and gain access to a computer through trapdoor programs, in the event of an attack on the computer system or networks. Attackers may also use such mechanisms to enter computers or networks without proper permission.
+**Business Disruption:** Any event or circumstance that causes a significant interruption or halt to normal business operations. This can include natural disasters, cyberattacks, technological failures, or other incidents that negatively impact a company's ability to operate effectively.
 
-### Banker Trojan
+**BYOC (Bring Your Own Cloud):** A practice where employees use their personal cloud services, such as file storage or application platforms, for work-related tasks. While BYOC can offer flexibility and convenience, it also poses security risks and challenges in managing corporate data and ensuring compliance with company policies.
 
-A Banker Trojan is a malicious computer program that intercepts sensitive personal information and credentials for accessing online bank or payment accounts. [Read more](https://www.allot.com/blog/ginp-banking-trojan-exploits-covid-19/)
+**BYOD (Bring Your Own Device):** A workplace policy where employees are allowed or encouraged to use their personal electronic devices, like smartphones, tablets, and laptops, for work purposes. This includes accessing company networks and data. While BYOD can increase flexibility and employee satisfaction, it also raises challenges in ensuring data security and managing IT support across diverse devices.
 
-### Blacklist, Blocklist, Denylist
-
-Blacklist, Blocklist, or Denylist is a basic access control mechanism that allows elements such as email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc. through the system, except those explicitly mentioned which are denied access.
-
-Bot A Bot is a program that automates actions on behalf of an agent for some other program or person and is used to carry out routine tasks. Their use for malicious purposes includes spam distribution, credentials harvesting, and the launching of DDoS attacks.
-
-### Botnet
-
-A Botnet is a collection of compromised computers running malicious programs that are controlled remotely by a C&C (command & control) server operated by a cyber-criminal. Cybercriminals exercise remote control through automated processes (bots) in public IRC channels or websites. (Such websites may either be run directly by the ‘bot herder,’ or they may be legitimate websites that have been subverted for this purpose.) Read more on [Allot’s solutions for Home Security](https://www.allot.com/network-security/connected-home-security-services/).
-
-### Brute Force Attack
-
-This is a method for guessing a password (or the key used to encrypt a message) that involves systematically trying a high volume of possible combinations of characters until the correct one is found. One way to reduce the susceptibility to a Brute Force Attack is to limit the number of permitted attempts to enter a password – for example, by allowing only three failed attempts and then permitting further attempts only after 15 minutes.
-
-### Business Continuity Plan
-
-A Business Continuity Plan is an organization’s playbook for how to operate in an emergency situation, like a massive cyberattack. The business continuity plan provides safeguards against a disaster and outlines the strategies and action plan on how to continue business as usual in the event of any large-scale cyber event. Read more on [Allot’s solutions for Business Security](https://www.allot.com/network-security/small-business-network-security/).
-
-### Business Disruption
-
-The term Business Disruption refers to any interruption in the usual way that a system, process, or event works. Cyberattacks cause disruption to business operations and the associated risk of losses to the organization. Read more on [Allot’s solutions for Business Security](https://www.allot.com/network-security/small-business-network-security/).
-
-### BYOC
-
-Bring Your Own Computer (BYOC) is a fairly recent enterprise computing trend by which employees are encouraged or allowed to bring and use their own personal computing devices to perform some or part of their job roles, specifically personal laptop computers.
-
-### BYOD
-
-Bring Your Own Device (BYOD) is a policy of the organization allowing, encouraging or requiring its employees to use their personal devices such as smartphones, Tablet PCs, and laptops for official business purposes and accessing enterprise systems and data.
-
-### BYOL
-
-Bring Your Own Laptop (BYOL) is a specific type of BYOC by which employees are encouraged or allowed to bring and use their own laptops to perform some or part of their job roles, including possible access to enterprise systems and data.
+**BYOL (Bring Your Own License):** A policy where individuals or organizations use their existing software licenses on a third-party's infrastructure or platform, such as cloud services. This approach allows for flexibility and cost savings, as users can leverage their pre-owned software licenses instead of purchasing new ones from the cloud service provider.
 
 ### CAPTCHA
 
