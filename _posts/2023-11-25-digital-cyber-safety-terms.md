@@ -8,7 +8,15 @@ category: tips
 author: mranderson
 paginate: false
 ---
-### Advanced Persistent Threat (APT)
+Cybersecurity Glossary: Our comprehensive guide includes key cybersecurity terms and definitions, offering customers an easy reference to understand the industry's vital language. This resource is especially crucial in today's environment, where cyberattacks pose significant threats to personal and business security. It aids in safeguarding against cyber threats and blocking harmful content, underlining our commitment as service providers to enhance your digital safety.
+
+### **Browse Alphabetically:**
+
+[A](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#a) [B](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#b) [C](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#c) [D](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#d) [E](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#e) [F](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#f) [G](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#g) [H](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#h) [I](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#i) [J](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#j) [K](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#k) [L](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#l) [M](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#m) [N](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#n) [O](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#o) [P](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#p) [Q](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#q) [R](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#r) [S](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#s) [T](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#t) [U](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#u) [V](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#v) [W](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#w) [X](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#x) [Y](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#y) [Z](https://www.allot.com/100-plus-cybersecurity-terms-definitions/#z)
+
+
+
+### Advanced Threat Protection (ATP)
 
 In an APT attack, a threat actor uses the most sophisticated tactics and technologies to penetrate a high-profile network. APTs aim to stay ‘under the radar’ and explore the network while remaining undetected for weeks, months, and even years. APTs are most often used by nation-state threat actors wishing to cause severe disruption and damage to the economic and political stability of a country. They can be considered the cyber equivalent of espionage ‘sleeper cells’.
 
