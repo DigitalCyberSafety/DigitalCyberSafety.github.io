@@ -4,6 +4,8 @@ layout: post
 title: Why Your Data is a Goldmine
 subtitle: The Alarming Reality of Data Brokers and Hackers
 description: The Alarming Reality of Data Brokers and Hackers
+image: /assets/img/uploads/img_0025.webp
+optimized_image: /assets/img/uploads/img_0025.webp
 category: css
 tags:
   - Privacy
