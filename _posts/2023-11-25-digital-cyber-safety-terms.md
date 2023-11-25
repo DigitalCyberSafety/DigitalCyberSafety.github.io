@@ -87,7 +87,7 @@ Cyberbullying is the use of electronic means, primarily messaging and social med
 
 ### Cybersecurity
 
-Cybersecurity relates to processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked. It requires extensive knowledge of possible threats such as viruses or other malicious objects. Identity management, risk management, and incident management form the crux of the cybersecurity strategies of an organization. [Read more](https://www.allot.com/blog/telco-cybersecurity-competitive-edge/)
+Cybersecurity relates to processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked. It requires extensive knowledge of possible threats such as viruses or other malicious objects. Identity management, risk management, and incident management form the crux of the cybersecurity strategies of an organization.[](https://www.allot.com/blog/telco-cybersecurity-competitive-edge/)
 
 ### Dark Web
 
@@ -113,7 +113,7 @@ Data Theft is the deliberate theft of sensitive data by nefarious actors.
 
 ### DDoS
 
-A Denial of Service (DoS) or Distributed Denial of Service (DDoS) attack is when one or more compromised systems launch a flooding attack on a remote target(s), in an attempt to overload network resources and disrupt service. Some DDoS attacks have caused prolonged, complete service shutdowns of major online operators. Learn more about [DDoS attack types](https://www.allot.com/ddos-attack-glossary/).
+A Denial of Service (DoS) or Distributed Denial of Service (DDoS) attack is when one or more compromised systems launch a flooding attack on a remote target(s), in an attempt to overload network resources and disrupt service. Some DDoS attacks have caused prolonged, complete service shutdowns of major online operators. 
 
 ### Decryption
 
@@ -121,7 +121,7 @@ Decryption is the process of decoding cipher text to plain text so that it is re
 
 ### Detection and Response
 
-Network Detection and Response is a [security solution](https://www.allot.com/network-security/) category used by organizations to detect malicious network activity, perform a forensic investigation to determine the root cause, and then respond and mitigate the threat.
+Network Detection and Response is a security solution category used by organizations to detect malicious network activity, perform a forensic investigation to determine the root cause, and then respond and mitigate the threat.
 
 ### Digital Forensics
 
@@ -133,7 +133,7 @@ Digital Transformation is the process of using digital technologies to create or
 
 ### Domain Name Systems (DNS) Exfiltration
 
-Domain Name System (DNS) Exfiltration is a lower-level attack on DNS servers to gain unauthorized access. Such attacks are difficult to detect and can lead to loss of data. Read more on [Allot’s DNS solutions](https://www.allot.com/network-security/dns-secure/).
+Domain Name System (DNS) Exfiltration is a lower-level attack on DNS servers to gain unauthorized access. Such attacks are difficult to detect and can lead to loss of data.
 
 ### Drive-By Download Attack
 
@@ -145,11 +145,11 @@ Encryption is a process of maintaining data confidentiality by converting plain 
 
 ### Endpoint Protection
 
-Endpoint Protection refers to a system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices from which a network is accessed. Read more on [Allot’s Endpoint Protection solutions](https://www.allot.com/network-security/endpointsecure/).
+Endpoint Protection refers to a system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices from which a network is accessed. 
 
 ### Endpoint Detection and Response (EDR)
 
-Endpoint Detection and Response (EDR) are tools for protecting computer endpoints from potential threats. EDR platforms comprise software and networking tools for detecting suspicious endpoint activities, usually via continuous [network monitoring](https://www.allot.com/enterprise/network-monitoring/).
+Endpoint Detection and Response (EDR) are tools for protecting computer endpoints from potential threats. EDR platforms comprise software and networking tools for detecting suspicious endpoint activities, usually via continuous network monitoring.
 
 ### Exploit
 
@@ -193,7 +193,7 @@ Indicators of Compromise (IoC) are bits of forensic data from system log entries
 
 ### In-line Network Device
 
-An In-line Network Device is one that receives packets and forwards them to their intended destination. In-line network devices include routers, switches, firewalls, and intrusion detection and intrusion prevention systems, web application firewalls, anti-malware, and network taps. [NetworkSecure delivers comprehensive in-line cybersecurity protection to CSP subscribers.](https://www.allot.com/network-security/network-security-services/)
+An In-line Network Device is one that receives packets and forwards them to their intended destination. In-line network devices include routers, switches, firewalls, and intrusion detection and intrusion prevention systems, web application firewalls, anti-malware, and network taps. 
 
 ### Insider Threat
 
@@ -205,7 +205,7 @@ An Intrusion Prevention System (IPS) is a network security system designed to pr
 
 ### IoT
 
-The term Internet of Things (IoT) is used to describe everyday objects that are connected to the internet and are able to collect and transfer data automatically, without the need for human interaction. The Internet of Things encompasses any physical object (not just traditional computers) that can be assigned an IP address and can transfer data: this includes household appliances, utility meters, cars, CCTV cameras, and even people (e.g., heart implants). Read more about[ solutions for IoT Security](https://www.allot.com/network-security/iotsecure/).
+The term Internet of Things (IoT) is used to describe everyday objects that are connected to the internet and are able to collect and transfer data automatically, without the need for human interaction. The Internet of Things encompasses any physical object (not just traditional computers) that can be assigned an IP address and can transfer data: this includes household appliances, utility meters, cars, CCTV cameras, and even people (e.g., heart implants). 
 
 ### Keylogger
 
@@ -229,7 +229,7 @@ The MITRE ATT&CK™ framework is a comprehensive matrix of tactics and technique
 
 ### Network-based (cyber) Security
 
-Mass-market cybersecurity services (e.g., anti-malware, anti-phishing) that operate from within a CSP’s network and not at the endpoint, such as a PC or a mobile device. Network-based services can protect any connected device regardless of model or operating system. This type of service, however, cannot be bypassed like other cybersecurity solutions and they can be implemented with no software installation, upgrades or configuration required on the part of the end user, leading to high rates of service adoption. Read more on [solutions for Network Security](https://www.allot.com/network-security/).
+Mass-market cybersecurity services (e.g., anti-malware, anti-phishing) that operate from within a CSP’s network and not at the endpoint, such as a PC or a mobile device. Network-based services can protect any connected device regardless of model or operating system. This type of service, however, cannot be bypassed like other cybersecurity solutions and they can be implemented with no software installation, upgrades or configuration required on the part of the end user, leading to high rates of service adoption. 
 
 ### Parental Controls
 
@@ -257,7 +257,7 @@ Process Hollowing is a security exploit in which an attacker removes code in an 
 
 ### Ransomware
 
-Ransomware is the name given to malicious programs designed to extort money from victims by blocking access to the computer or encrypting stored data. The malware displays a message offering to restore the system/data in return for payment. Sometimes, cybercriminals behind the scam try to lend credibility to their operation by masquerading as law enforcement officials. Their ransom message asserts that the system has been blocked, or the data encrypted, because the victim is running unlicensed software or has accessed illegal content, and that the victim must pay a fine. Read more on [Allot’s solutions for Business Security](https://www.allot.com/products-service-providers/small-business-network-security/).
+Ransomware is the name given to malicious programs designed to extort money from victims by blocking access to the computer or encrypting stored data. The malware displays a message offering to restore the system/data in return for payment. Sometimes, cybercriminals behind the scam try to lend credibility to their operation by masquerading as law enforcement officials. Their ransom message asserts that the system has been blocked, or the data encrypted, because the victim is running unlicensed software or has accessed illegal content, and that the victim must pay a fine. 
 
 ### Remote Desktop Protocol (RDP)
 
@@ -281,7 +281,7 @@ Scareware is malware that uses scare tactics, often in the form of pop-ups that 
 
 ### SECaaS
 
-Security as a Service (SECaaS) is a type of cloud computing service where the provider offers the customer the ability to use a provided application. Examples of a SECaaS include online e-mail services or online document editing systems. A user of a SECaaS solution is only able to use the offered application and make minor configuration tweaks. The SECaaS provider is responsible for maintaining the application. Allot Secure is the first solution to offer SECaaS en mass to network service subscribers. Read more on [Allot’s solutions for Network Security](https://www.allot.com/network-security/).
+Security as a Service (SECaaS) is a type of cloud computing service where the provider offers the customer the ability to use a provided application. Examples of a SECaaS include online e-mail services or online document editing systems. A user of a SECaaS solution is only able to use the offered application and make minor configuration tweaks. The SECaaS provider is responsible for maintaining the application. Allot Secure is the first solution to offer SECaaS en mass to network service subscribers. 
 
 ### Secure Socket Layer (SSL)
 
@@ -345,7 +345,9 @@ Cyber Threat Hunting is an active cyber defense activity where cybersecurity pro
 
 ### Threat Intelligence
 
-Threat Intelligence, or cyber threat intelligence, is intelligence proactively obtained and used to understand the threats that are targeting the organization. Trojan Trojans are malicious programs that perform actions that are not authorized by the user: they delete, block, modify or copy data, and they disrupt the performance of computers or computer networks. Unlike viruses and worms, Trojans are unable to make copies of themselves or self-replicate. Read more about [Threat Intelligence Solutions.](https://www.allot.com/network-intelligence/)
+Threat Intelligence, or cyber threat intelligence, is intelligence proactively obtained and used to understand the threats that are targeting the organization. Trojan Trojans are malicious programs that perform actions that are not authorized by the user: they delete, block, modify or copy data, and they disrupt the performance of computers or computer networks. Unlike viruses and worms, Trojans are unable to make copies of themselves or self-replicate. Read more about
+
+**Tracking Pixels:** Small, often invisible, images embedded in emails and websites that collect information about user behavior. When the content containing a tracking pixel is opened, information such as when, how often, and on what device the content was viewed, along with the IP address, can be recorded. They are commonly used for email marketing and website analytics.
 
 ### Two-factor Authentification (2FA)
 
@@ -377,7 +379,7 @@ White hat – Black Hat are terms to describe the ‘good guys’ and ‘bad guy
 
 ### Whitelist, Allowlist
 
-A Whitelist, allowlist, passlist is a list of permitted items that are automatically let through whatever gate is being used. Worm A Worm is a computer program that installs itself on a victim’s device and then looks for a way to spread to other computers, causing damage by shutting down parts of the network. Read more on [Allot’s solutions for Whitelist/Allowlist](https://www.allot.com/network-security/dns-secure/).
+A Whitelist, allowlist, passlist is a list of permitted items that are automatically let through whatever gate is being used. Worm A Worm is a computer program that installs itself on a victim’s device and then looks for a way to spread to other computers, causing damage by shutting down parts of the network.
 
 ### Zero-day Exploit
 
@@ -385,7 +387,7 @@ This term is used to describe exploit code that has been written to take advanta
 
 ### Zero-touch Provisioning or Deployment
 
-Zero-Touch Provisioning (ZTP) is an automatic device configuration process that frees IT administrators for more important tasks. The automated process reduces the possibility of errors when manually configuring devices and slashes the time it takes to set up devices for employee use, often without requiring IT intervention. Users can set up their devices with a few clicks, eliminating the need for administrators to create and track system images or manage the infrastructure required to push those images to new or repurposed devices. Read more on [Allot’s solutions for Zero-touch provisioning](https://www.allot.com/network-security/endpointsecure/).
+Zero-Touch Provisioning (ZTP) is an automatic device configuration process that frees IT administrators for more important tasks. The automated process reduces the possibility of errors when manually configuring devices and slashes the time it takes to set up devices for employee use, often without requiring IT intervention. Users can set up their devices with a few clicks, eliminating the need for administrators to create and track system images or manage the infrastructure required to push those images to new or repurposed devices. 
 
 ![Glossary](https://www.allot.com/resources/solution_paper-1.jpg)
 
