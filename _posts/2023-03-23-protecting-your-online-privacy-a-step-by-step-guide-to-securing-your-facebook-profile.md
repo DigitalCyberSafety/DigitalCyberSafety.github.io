@@ -7,8 +7,8 @@ subtitle: Keep Your Personal Information Safe from Lurkers and Hackers with
   These Easy-to-Follow Tips
 description: This blog post provides a step-by-step guide to help you secure
   your Facebook profile and protect your online privacy from unwanted access.
-image: /assets/img/uploads/facebook-logo-1220x725-920x547.webp
-optimized_image: /assets/img/uploads/facebook-logo-1220x725-920x547.webp
+image: /assets/img/uploads/img_0020.webp
+optimized_image: /assets/img/uploads/img_0020.webp
 category: css
 tags:
   - privacy
